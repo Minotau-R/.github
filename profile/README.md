@@ -1,4 +1,4 @@
-###  Multi-modal INtegration Operations, Tools and AUxilaries in R
+###  Multi-modal INtegration Operations, Tools and AUxiliaries in R
 #### MinotauR
 A collection of packages in R to integrate multiple data modalities.  
 
